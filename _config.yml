@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           REEZHOU 
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          reechou@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        https://twitter.com/TomZLD
+  facebook:       https://www.facebook.com/reezhou
+  github:         https://github.com/reechou
   stackexchange:  
   linkedin:       
   instagram:      
@@ -46,7 +46,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:categories/:year/:month/:day/:title/
 
 # Amount of post to show on home page
 paginate: 5

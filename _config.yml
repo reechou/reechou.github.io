@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            REEZHOU
+description:      Mr.REE 闲暇时光.
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -11,8 +11,8 @@ url:
 owner:
   name:           REEZHOU 
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          reechou@gmail.com
+  bio:            "Maybe playing a future game."
+  email:          reechou@gmail.coderay_line_numbers_start
   # Social networking links used in footer. Update and remove as you like.
   twitter:        https://twitter.com/TomZLD
   facebook:       https://www.facebook.com/reezhou

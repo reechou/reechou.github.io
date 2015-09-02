@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About REEZHOU
+title: About Mr.REE 
 image:
   feature: abstract-5.jpg
 comments: true 

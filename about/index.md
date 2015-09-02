@@ -3,19 +3,18 @@ layout: page
 title: About REEZHOU
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: 
 comments: false
 modified: 2015-09-02
 ---
 
+>
 Mr.REE
-
+>
 喧嚣的社会中，安静的沉淀
-
+>
 联系我
-
-email：reechou@gmail.com
+>
+[email：reechou@gmail.com]
 
 ## 经历与爱好:
 

@@ -3,7 +3,7 @@ layout: page
 title: About REEZHOU
 image:
   feature: abstract-5.jpg
-comments: false
+comments: true 
 modified: 2015-09-02
 ---
 
